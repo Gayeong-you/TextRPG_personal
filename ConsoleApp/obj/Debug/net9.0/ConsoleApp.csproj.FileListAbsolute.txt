@@ -1,0 +1,14 @@
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/t2025-m0056/RiderProjects/ConsoleApp1/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
